@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on LLMs and GenAI<br>I am building AI-driven applications using Large Language Models (LLMs) including LLaMA3 and the ChatGPT API<br>I am trying to get be an AI Engineer.
+I am currently working on CYbersecurity, LLMs and GenAI<br>I am building AI-driven applications using Large Language Models (LLMs) including LLaMA3 and the ChatGPT API<br>I am trying to get be an AI Engineer.
 
 
 ## 🌐 Socials:
